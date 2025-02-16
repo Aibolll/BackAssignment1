@@ -15,21 +15,21 @@
     </properties>
 
     <dependencies>
-        <!-- Spring Context (Updated to latest safe version) -->
+  
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>6.1.1</version> <!-- Updated from 5.3.23 -->
+            <version>6.1.1</version> 
         </dependency>
 
-        <!-- Spring Beans -->
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>6.1.1</version> <!-- Keep versions consistent -->
+            <version>6.1.1</version> 
         </dependency>
 
-        <!-- Spring Expression (Updated to avoid vulnerabilities) -->
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-expression</artifactId>
